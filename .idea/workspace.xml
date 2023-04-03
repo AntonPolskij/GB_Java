@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d85e7fe0-99e2-4df5-a020-6c009c2c8860" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/homework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/homework/exampleHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/homework/exampleTXT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/files/homework2.txt" afterDir="false" />
+
+
+      <change afterPath="$PROJECT_DIR$/src/main/resources/files/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2/Main.java" afterDir="false" />
+
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +69,13 @@
   </component>
   <component name="RunManager" selected="Application.lesson2.homework.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+
       <option name="MAIN_CLASS_NAME" value="lesson2.Main" />
       <module name="GB_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson2.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,7 +136,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="true" />
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
               <option name="FILTERS">
