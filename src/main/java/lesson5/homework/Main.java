@@ -33,20 +33,6 @@ public class Main {
             }
         }
 
-//        int count = 0;
-//
-//
-//        for (int i = 0; i < usersFirstNames.size() - 1; i++) {
-//            String currentName = usersFirstNames.get(i);
-//            String nextName = usersFirstNames.get(i + 1);
-//            count++;
-//
-//            if (!currentName.equalsIgnoreCase(nextName)) {
-//                repeatNamesQuantityMap.put(currentName, count);
-//                count = 0;
-//            }
-//        }
-//            repeatNamesQuantityMap.put(usersFirstNames.get(usersFirstNames.size()-1), count > 0 ? count + 1 : 1);
         System.out.println(repeatNamesQuantityMap);
 
     }
