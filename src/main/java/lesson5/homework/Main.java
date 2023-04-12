@@ -33,7 +33,7 @@ public class Main {
             }
         }
 
-        System.out.println(repeatNamesQuantityMap);
+        repeatNamesQuantityMap.entrySet().stream().sorted(Map.Entry.<String,Integer>comparingByValue().reversed()).forEach(System.out::println);
 
     }
 
